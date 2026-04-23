@@ -9,5 +9,27 @@
     height:100vh;
     background-color: lightgray;
     border: 5px solid black;
+    display:block;
+    border: 3px black solid;
+}
+
+#box1{
+    border: 3px green solid;
+    width: 20vw;
+    height: 10vh;
+    border-radius: 10px;
+    background-color: greenyellow;
+}
+
+#box2{
+    border: 3px orangered solid;
+    width: 20vw;
+    height: 10vh;
+    border-radius: 10px;
+    background-color: orange;
+}
+
+#box3{
+
 }
 
